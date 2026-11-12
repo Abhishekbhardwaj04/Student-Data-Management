@@ -1,6 +1,6 @@
 # Student-Data-Management
 
-This is simple C mini-project to handle student data where add, delete, update and save there data. 
+This is C programing language using mini-project to handle student data where add, delete, update and save there data. 
 Files
 - main.c: Main
 - header.h: Function declaration
